@@ -12,6 +12,7 @@ nav-title-end: Bootstrap
 color:
   primary-dark: '#000000'
   links: '#219ab3'
+  links-focus: '#11505d'
 
 # Footer settings
 footer: Your Website
